@@ -3,7 +3,6 @@
 import 'package:rx_bloc/rx_bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
-import '../../base/extensions/error_model_extensions.dart';
 import '../../base/models/count.dart';
 import '../../base/models/errors/error_model.dart';
 import '../services/counter_service.dart';

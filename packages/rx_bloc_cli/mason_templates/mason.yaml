@@ -3,6 +3,8 @@
 bricks:
   rx_bloc_base:
     path: bricks/rx_bloc_base
+  feature_counter:
+    path: bricks/feature_counter
   # Bricks can also be imported via git url.
   # Uncomment the following lines to import
   # a brick from a remote git url.
