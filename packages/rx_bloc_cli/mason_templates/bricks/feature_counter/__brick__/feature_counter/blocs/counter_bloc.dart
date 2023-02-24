@@ -4,6 +4,7 @@ import 'package:rx_bloc/rx_bloc.dart';
 import 'package:rxdart/rxdart.dart';
 
 import '../../base/models/count.dart';
+import '../../base/models/error_model_extension.dart';
 import '../../base/models/errors/error_model.dart';
 import '../services/counter_service.dart';
 
